@@ -174,8 +174,8 @@ github.com/CVEProject/cvelist --> fork --> github.com/$YOU/cvelist
 
 Note that you may contact the CVE Team using the [CVE Request web
 form](https://cveform.mitre.org) if you wish to discuss something
-privately.  Note also that pull requests left open for more than 21
-days will be rejected. 
+privately.  **Note also that pull requests left open for more than 21
+days will be rejected.**
 
 
 ## Contact
